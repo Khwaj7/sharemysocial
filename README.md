@@ -1,6 +1,6 @@
 # sharemysocial
 
-A new Flutter project.
+A Flutter app allowing you to easily create a front page, where you can add all your social networks links.
 
 ## Getting Started
 
